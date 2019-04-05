@@ -19,7 +19,7 @@ module.exports = {
     'max-len': 0,
     'import/no-unresolved': 0,
     'import/prefer-default-export': 0,
-    'no-console': 1,
+    'no-console': 0,
     'react/forbid-prop-types': 0,
     'object-curly-newline': 0,
     'implicit-arrow-linebreak': 0,
