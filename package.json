@@ -1,0 +1,40 @@
+{
+  "name": "@evokedset/eslint-config-evokedset",
+  "version": "0.0.1",
+  "description": "Do what thou wilt AND obey the linter shall be the whole of the law",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mmgj@github.com/EvokedSet/eslint-config-evokedset.git"
+  },
+  "keywords": [
+    "eslint",
+    "style",
+    "guide"
+  ],
+  "author": "Martin Jacobsen<mj@evokedset.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvokedSet/eslint-config-evokedset/issues"
+  },
+  "homepage": "https://github.com/EvokedSet/eslint-config-evokedset#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.3.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
