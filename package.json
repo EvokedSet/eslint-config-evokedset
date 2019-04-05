@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://mmgj@github.com/EvokedSet/eslint-config-evokedset.git"
+    "url": "https://github.com/EvokedSet/eslint-config-evokedset.git"
   },
   "keywords": [
     "eslint",
