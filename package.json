@@ -1,6 +1,6 @@
 {
   "name": "@evokedset/eslint-config-evokedset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Do what thou wilt AND obey the linter shall be the whole of the law",
   "main": "index.js",
   "scripts": {
