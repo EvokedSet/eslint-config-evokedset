@@ -1,5 +1,4 @@
 # @evokedset/eslint-config-evokedset
-
 ### Installation
 
 ```sh
@@ -24,7 +23,7 @@ Then add `.eslintrc.json` or `.eslintrc.js` to the root of your project.
 module.exports = {
     "extends": [
       "@evokedset/eslint-config-evokedset"
-    ],
+    ]
 }
 ```
 
